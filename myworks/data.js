@@ -1,0 +1,1 @@
+var myData={designer:{name:'龙洲萍',phone:'16603046634',tag:["#灵感来源于生活  #设计酱  #设计是一种感受 "],bg:'#ffffff'},gallery:[{src:"myworks/1图片.png",w:1080,h:720},{src:"myworks/4图片.png",w:1080,h:735},{src:"myworks/3图片.png",w:1080,h:810},{src:"myworks/2图片.png",w:1080,h:724},]}
